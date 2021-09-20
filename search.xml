@@ -4,50 +4,13 @@
   
     
     <entry>
-      <title>代码演示</title>
-      <link href="/2021/09/19/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/demo1/"/>
-      <url>/2021/09/19/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/demo1/</url>
-      
-        <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">a</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> JavaScript </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> JavaScript </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>被小马欺负的日志</title>
+      <title>欢迎来访：写在前面</title>
       <link href="/2021/09/19/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/"/>
       <url>/2021/09/19/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">被小马欺负的第n天...</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
-      <categories>
-          
-          <category> 我的日常 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 小确幸 </tag>
-            
-        </tags>
       
     </entry>
     
