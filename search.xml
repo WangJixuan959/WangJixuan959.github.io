@@ -4,11 +4,200 @@
   
     
     <entry>
-      <title>计算机网络（二）</title>
-      <link href="/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-      <url>/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
+      <title>操作系统（七）</title>
+      <link href="/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%83%EF%BC%89/"/>
+      <url>/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%83%EF%BC%89/</url>
       
-        <content type="html"><![CDATA[<h1 id="计算机四级考试-–计算机网络"><a href="#计算机四级考试-–计算机网络" class="headerlink" title="计算机四级考试 –计算机网络"></a>计算机四级考试 –计算机网络</h1><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em></p><h2 id="第二章-局域网技术"><a href="#第二章-局域网技术" class="headerlink" title="第二章 局域网技术"></a>第二章 局域网技术</h2><p><strong>知识点：</strong></p><ul><li>局域网的各种类型及其特点</li><li>Ethernet工作原理及其帧结构</li><li>交换式局域网与虚拟局域网</li><li>高速局域网-Fast、Gigabit等</li><li>无线局域网技术-协议标准、802.11帧结构</li></ul><h3 id="一-局域网的各种类型及其特点"><a href="#一-局域网的各种类型及其特点" class="headerlink" title="一.局域网的各种类型及其特点"></a>一.局域网的各种类型及其特点</h3><h4 id="1-局域网技术的发展"><a href="#1-局域网技术的发展" class="headerlink" title="1.局域网技术的发展"></a>1.局域网技术的发展</h4><h3 id="二-Ethernet工作原理及其帧结构"><a href="#二-Ethernet工作原理及其帧结构" class="headerlink" title="二.Ethernet工作原理及其帧结构"></a>二.Ethernet工作原理及其帧结构</h3><h3 id="三-交换式局域网与虚拟局域网"><a href="#三-交换式局域网与虚拟局域网" class="headerlink" title="三.交换式局域网与虚拟局域网"></a>三.交换式局域网与虚拟局域网</h3><h3 id="四-高速局域网-Fast、Gigabit等"><a href="#四-高速局域网-Fast、Gigabit等" class="headerlink" title="四.高速局域网-Fast、Gigabit等"></a>四.高速局域网-Fast、Gigabit等</h3><h3 id="五-无线局域网技术-协议标准、802-11帧结构"><a href="#五-无线局域网技术-协议标准、802-11帧结构" class="headerlink" title="五.无线局域网技术-协议标准、802.11帧结构"></a>五.无线局域网技术-协议标准、802.11帧结构</h3>]]></content>
+        <content type="html"><![CDATA[<p><font size=30 color=red>计算机四级考试 –操作系统原理</font></p><p><em>注：此文章仅针对计算机四级考试中操作系统原理的主要考点，适合对操作系统有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育操作系统原理，谨此感谢</em></p><h1 id="第七章-死锁"><a href="#第七章-死锁" class="headerlink" title="第七章 死锁"></a>第七章 死锁</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> os </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> os </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>操作系统（六）</title>
+      <link href="/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%85%AD%EF%BC%89/"/>
+      <url>/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%85%AD%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=red>计算机四级考试 –操作系统原理</font></p><p><em>注：此文章仅针对计算机四级考试中操作系统原理的主要考点，适合对操作系统有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育操作系统原理，谨此感谢</em></p><h1 id="第六章-I-O设备管理"><a href="#第六章-I-O设备管理" class="headerlink" title="第六章 I/O设备管理"></a>第六章 I/O设备管理</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> os </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> os </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>操作系统（五）</title>
+      <link href="/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%BA%94%EF%BC%89/"/>
+      <url>/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%BA%94%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=red>计算机四级考试 –操作系统原理</font></p><p><em>注：此文章仅针对计算机四级考试中操作系统原理的主要考点，适合对操作系统有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育操作系统原理，谨此感谢</em></p><h1 id="第五章-文件系统设计与实现技术"><a href="#第五章-文件系统设计与实现技术" class="headerlink" title="第五章 文件系统设计与实现技术"></a>第五章 文件系统设计与实现技术</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> os </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> os </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>操作系统（四）</title>
+      <link href="/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%9B%9B%EF%BC%89/"/>
+      <url>/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%9B%9B%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=red>计算机四级考试 –操作系统原理</font></p><p><em>注：此文章仅针对计算机四级考试中操作系统原理的主要考点，适合对操作系统有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育操作系统原理，谨此感谢</em></p><h1 id="第四章-存储管理方案"><a href="#第四章-存储管理方案" class="headerlink" title="第四章 存储管理方案"></a>第四章 存储管理方案</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> os </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> os </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>操作系统（三）</title>
+      <link href="/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+      <url>/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%89%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=red>计算机四级考试 –操作系统原理</font></p><p><em>注：此文章仅针对计算机四级考试中操作系统原理的主要考点，适合对操作系统有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育操作系统原理，谨此感谢</em></p><h1 id="第三章-进程线程模型"><a href="#第三章-进程线程模型" class="headerlink" title="第三章 进程线程模型"></a>第三章 进程线程模型</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> os </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> os </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>操作系统（二）</title>
+      <link href="/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+      <url>/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=red>计算机四级考试 –操作系统原理</font></p><p><em>注：此文章仅针对计算机四级考试中操作系统原理的主要考点，适合对操作系统有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育操作系统原理，谨此感谢</em></p><h1 id="第二章-操作系统运行机制"><a href="#第二章-操作系统运行机制" class="headerlink" title="第二章 操作系统运行机制"></a>第二章 操作系统运行机制</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> os </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> os </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>操作系统（一）</title>
+      <link href="/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+      <url>/2021/09/22/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=red>计算机四级考试 –操作系统原理</font></p><p><em>注：此文章仅针对计算机四级考试中操作系统原理的主要考点，适合对操作系统有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育操作系统原理，谨此感谢</em></p><h1 id="第一章-操作系统概述"><a href="#第一章-操作系统概述" class="headerlink" title="第一章 操作系统概述"></a>第一章 操作系统概述</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> os </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> os </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机网络（六）</title>
+      <link href="/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E5%85%AD%EF%BC%89/"/>
+      <url>/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E5%85%AD%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=skyblue>计算机四级考试 –计算机网络</font></p><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em></p><h1 id="第六章-网络管理与网络安全"><a href="#第六章-网络管理与网络安全" class="headerlink" title="第六章 网络管理与网络安全"></a>第六章 网络管理与网络安全</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
       
       
       <categories>
@@ -19,6 +208,116 @@
       
       
         <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 计算机网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机网络（五）</title>
+      <link href="/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%BA%94%EF%BC%89/"/>
+      <url>/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%BA%94%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=skyblue>计算机四级考试 –计算机网络</font></p><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em></p><h1 id="第五章-新型网络应用"><a href="#第五章-新型网络应用" class="headerlink" title="第五章 新型网络应用"></a>第五章 新型网络应用</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 计算机网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机网络（四）</title>
+      <link href="/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E5%9B%9B%EF%BC%89/"/>
+      <url>/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E5%9B%9B%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=skyblue>计算机四级考试 –计算机网络</font></p><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em></p><h1 id="第四章-Internet基本服务"><a href="#第四章-Internet基本服务" class="headerlink" title="第四章 Internet基本服务"></a>第四章 Internet基本服务</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 计算机网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机网络（三）</title>
+      <link href="/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+      <url>/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%B8%89%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=skyblue>计算机四级考试 –计算机网络</font></p><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em></p><h1 id="第三章-Internet基础"><a href="#第三章-Internet基础" class="headerlink" title="第三章 Internet基础"></a>第三章 Internet基础</h1><p><strong>知识点：</strong></p><ul><li></li></ul><h2 id="一"><a href="#一" class="headerlink" title="一."></a>一.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 计算机网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机网络（二）</title>
+      <link href="/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+      <url>/2021/09/21/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p><font size=30 color=skyblue>计算机四级考试 –计算机网络</font></p><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em></p><h1 id="第二章-局域网技术"><a href="#第二章-局域网技术" class="headerlink" title="第二章 局域网技术"></a>第二章 局域网技术</h1><p><strong>知识点：</strong></p><ul><li>局域网的各种类型及其特点</li><li>Ethernet工作原理及其帧结构</li><li>交换式局域网与虚拟局域网</li><li>高速局域网-Fast、Gigabit等</li><li>无线局域网技术-协议标准、802.11帧结构</li></ul><h2 id="一-局域网的各种类型及其特点"><a href="#一-局域网的各种类型及其特点" class="headerlink" title="一.局域网的各种类型及其特点"></a>一.局域网的各种类型及其特点</h2><h3 id="1-局域网技术的发展"><a href="#1-局域网技术的发展" class="headerlink" title="1.局域网技术的发展"></a>1.局域网技术的发展</h3><p>token bus -&gt; token ring -&gt; Ethernet</p><ul><li>介质访问控制是用一条作为总线的同轴电缆连接多台计算机，对应物理层协议是 10 BASE-2 与 10 BASE-5</li><li><font color=orange>共享介质</font>：连接多台计算机的同轴电缆</li><li>多个计算机通过一条<font color=orange>共享介质</font>发送和接收数据称为“多路访问”或“多路存取”</li></ul><h3 id="2-局域网分类"><a href="#2-局域网分类" class="headerlink" title="2.局域网分类"></a>2.局域网分类</h3><ol><li>token bus： 令牌控制的令牌总线形局域网</li><li>token ring： 令牌控制的令牌环形局域网</li><li>Ethernet： <font color=orange>采用带有冲突检测的载波侦听多路访问（CSMA/CD）访问控制方法的总线型Ethernet</font></li></ol><ul><li>体系结构遵循：<font color=orange>IEEE 802层次结构模型</font></li><li>传输介质：<font color=orange>同轴电缆、双绞线、光纤</font></li><li>采用<font color=orange>共享介质</font>方式发送和接收数据帧</li><li>介质访问控制都采用分布式控制方法，局域网中没有集中控制的主机<br><img src="https://img-blog.csdnimg.cn/61badd03b5ea49d3b5c62cdff5340b2d.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_11,color_FFFFFF,t_70,g_se,x_16"></li></ul><p><strong>IEEE 802.1体系结构与网络互联</strong></p><ul><li>IEEE 802.3 CSMA/CD <strong>定义CSMA/CD总线介质访问控制子层与物理层的标准</strong></li><li>IEEE 802.11 无线局域网 <strong>定义无线局域网访问控制子层与物理层的标准</strong></li><li>IEEE 802.15 近距离无线个人网络 定义近距离个人区域无线网络访问控制子层与物理层的标准</li><li>IEEE 802.16 宽带无线网络 定义宽带无线城域网访问控制子层与物理层的标准</li></ul><h3 id="3-各类型的主要特点"><a href="#3-各类型的主要特点" class="headerlink" title="3.各类型的主要特点"></a>3.各类型的主要特点</h3><h4 id="Ethernet"><a href="#Ethernet" class="headerlink" title="Ethernet"></a>Ethernet</h4><p><img src="https://img-blog.csdnimg.cn/67f0614fb3fb47578c48cdd74feb3e06.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><h4 id="token-bus"><a href="#token-bus" class="headerlink" title="token bus"></a>token bus</h4><p><img src="https://img-blog.csdnimg.cn/3a81711c898c48b1930d99689b05db0c.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><h4 id="token-ring"><a href="#token-ring" class="headerlink" title="token ring"></a>token ring</h4><p><img src="https://img-blog.csdnimg.cn/bcb794e6a76f4c3396d3230dd197238b.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><h2 id="二-Ethernet工作原理及其帧结构"><a href="#二-Ethernet工作原理及其帧结构" class="headerlink" title="二.Ethernet工作原理及其帧结构"></a>二.Ethernet工作原理及其帧结构</h2><h3 id="1-Ethernet工作原理"><a href="#1-Ethernet工作原理" class="headerlink" title="1.Ethernet工作原理"></a>1.Ethernet工作原理</h3><p><strong>CSMA/CD发送流程：先听后发，边听边发，冲突停止，延迟重发</strong></p><ul><li>CSMA/CD：随机争用型介质访问控制方法，可有效控制多主机对共享总线的访问</li><li><font color=orange>Ethernet中帧最大重发次数为16</font></li><li><font color=orange>任何主机发送前都要通过CSMA/CD争取总线使用权</font>，从发送到成功发送的等待延时不确定</li></ul><h3 id="2-Ethernet帧结构"><a href="#2-Ethernet帧结构" class="headerlink" title="2.Ethernet帧结构"></a>2.Ethernet帧结构</h3><p><img src="https://img-blog.csdnimg.cn/8f31f78bdb584a1db69677265786536a.png"></p><ul><li>前导码由<em>8B（64bit）</em>的比特序列组成，前导码作用是<font color=orange>实现收发双方的比特同步与帧同步</font>，8B前导码接收后<font color=orange>不需要保留也不计入帧头长度</font></li><li>目的地址与源地址：<font color=orange>帧的接收主机与发送主机的硬件地址（即物理地址即MAC地址即Ethernet地址）</font>，地址长度6B，源地址必须是<font color=orange>48b的MAC地址</font>，目的地址可以是<font color=orange>单播地址、多播地址或广播地址</font></li><li>类型字段：网络层的协议类型</li><li>数据字段：网络层发送的数据部分，长度在46~1500B，加上帧头18B，<font color=pink>Ethernet帧最大长度1518B，最小长度64B</font></li><li>帧校验：采用32b的CRC校验，范围是：目的地址，源地址，长度，LLC数据等字段</li></ul><p><strong>Ethernet主机的数据结构流程图</strong><br><img src="https://img-blog.csdnimg.cn/0cc7f20f899f4fb981c911a67a306025.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><h2 id="三-交换式局域网与虚拟局域网"><a href="#三-交换式局域网与虚拟局域网" class="headerlink" title="三.交换式局域网与虚拟局域网"></a>三.交换式局域网与虚拟局域网</h2><h3 id="1-交换式局域网的基本概念"><a href="#1-交换式局域网的基本概念" class="headerlink" title="1.交换式局域网的基本概念"></a>1.交换式局域网的基本概念</h3><p>（1）共享介质 –&gt; 交换方式 –&gt; 交换式局域网<br><strong>交换机（switch）：工作在数据链路层，根据接入交换机帧的MAC地址，过滤、转发数据帧的一种网络设备</strong><br><strong>交换机基本功能</strong>：</p><ul><li>建立和维护一个表示MAC地址与交换机端口号对应关系的映射表</li><li>在发送主机与接收主机端口间建立虚连接</li><li>完成帧的过滤和转发</li><li>执行生成树协议，防止出现环路</li></ul><p>（2）局域网交换机工作原理<br><em>交换机通过自我学习功能建立端口号与MAC地址对应映射表</em><br><img src="https://img-blog.csdnimg.cn/99c8b008ff074d3894a56ba311aa12f1.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><p>（3）交换机的交换方式</p><ul><li>直接交换方式：交换延迟短，但缺乏错误检测能力</li><li>存储转发交换方式：有帧差错检测能力，并支持不同输入速率与输出速率端口之间的帧转发，但延迟大</li><li>改进直接交换方式：短Ethernet帧：直接交换；长Ethernet帧，对帧的地址字段与控制字段进行差错检测</li></ul><p>（4）交换机的交换带宽（吞吐量）<br><strong>交换带宽=端口数*端口速率（全双工模式x2）</strong></p><h3 id="2-虚拟局域网技术"><a href="#2-虚拟局域网技术" class="headerlink" title="2.虚拟局域网技术"></a>2.虚拟局域网技术</h3><p>（1）虚拟局域网的基本概念</p><ul><li>虚拟局域网建立在<font color=pink>局域网交换机</font>之上，以软件方式实现逻辑工作组的划分与管理</li><li>虚拟局域网（VLAN）是一组<font color=pink>逻辑上的设备和用户，这些设备和用户不受物理位置的限制</font></li></ul><p>（2）VLAN划分的方法</p><ul><li><p>基于交换机端口的VLAN划分方法<br><img src="https://img-blog.csdnimg.cn/8e49a821a2b44030b136f3853521a678.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_15,color_FFFFFF,t_70,g_se,x_16"></p></li><li><p>基于主机MAC地址的VLAN划分方法<br><img src="https://img-blog.csdnimg.cn/24e11e34474c41b6aab64ee0a3034433.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_15,color_FFFFFF,t_70,g_se,x_16"></p></li><li><p>基于网络层地址或协议的VLAN划分方法<br><img src="https://img-blog.csdnimg.cn/a2473448765948f381292701a3e9fc7e.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_15,color_FFFFFF,t_70,g_se,x_16"></p></li></ul><p>（3）IEEE 802.1Q 基本内容<br><img src="https://img-blog.csdnimg.cn/b7c427cbe69d447288cb7bc55f496082.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><ul><li>1.协议标识符：IEEE 802.1Q 增加了4B来扩展Ethernet帧。第一个字段是<font color=pink>2B的标记协议标识符（TPID），表示该帧是IEEE802.1Q协议扩展帧，TPID取值为0x8100</font></li><li>2.控制信息：<font color=pink>2B的标记控制信息（TCI）</font>第二个字段被分为3b的优先级、1b的规范格式指示符（CFI）与12b的VLAN标识符（VID）。<font color=pink>VID长度为12b，其中0与4095被保留作科研用途，VID取值在1~4094之间</font></li></ul><h2 id="四-高速局域网-Fast、Gigabit等"><a href="#四-高速局域网-Fast、Gigabit等" class="headerlink" title="四.高速局域网-Fast、Gigabit等"></a>四.高速局域网-Fast、Gigabit等</h2><h3 id="1-Fast-Ethernet（快速以太网）"><a href="#1-Fast-Ethernet（快速以太网）" class="headerlink" title="1.Fast Ethernet（快速以太网）"></a>1.Fast Ethernet（快速以太网）</h3><ul><li>fast Ethernet 传输速率达到<font color=pink>100Mbps</font>，但仍保留Ethernet相同帧格式与最小最大帧长度</li><li>IEEE 802委员会正式批准Fast Ethernet标准–<font color=pink>IEEE 802.3u</font>，该标准定义了介质专用接口（MII），将MAC层与物理层分开</li><li>支持半双工与全双工，增加10Mbps与100Mbps速率自动协商功能</li></ul><p>分类：</p><ul><li>100BASE-TX <font color=pink>两对5类非屏蔽双绞线UTP，全双工（每个主机可同时以100Mbps接收与发送数据）</font></li><li>100BASE-T4 <font color=pink>4对3类非屏蔽双绞线UTP</font>，三对传输，1对冲突检测，只能<font color=pink>半双工</font></li><li>100BASE-FX <font color=pink>2芯的多模或单模光纤，全双工</font>，用作高速主干网，从主机到集线器的多模光纤可达2km</li></ul><h3 id="2-Gigabit-Ethernet（千兆以太网）"><a href="#2-Gigabit-Ethernet（千兆以太网）" class="headerlink" title="2.Gigabit Ethernet（千兆以太网）"></a>2.Gigabit Ethernet（千兆以太网）</h3><ul><li>Gigabit Ethernet 传输速率达到<font color=pink>1000Mbps</font>，但仍保留Ethernet相同帧格式与最小最大帧长度</li><li>IEEE 802委员会正式批准GE标准–<font color=pink>IEEE 802.3z</font>，该标准定义了千兆介质专用接口（GMII），将MAC层与物理层分开</li></ul><p>千兆介质类型：</p><ul><li>1000BASE-CX：两对屏蔽双绞线，25m</li><li>1000BASE-T：4对5类非屏蔽双绞线，100m</li><li>1000BASE-SX：多模光纤，550m</li><li>1000BASE-LX：单模光纤，5km</li><li>1000BASE-LH：单模光纤，10km</li><li>1000BASE-ZX：单模光纤，70km</li></ul><h3 id="3-10-Gigabit-Ethernet（万兆以太网）"><a href="#3-10-Gigabit-Ethernet（万兆以太网）" class="headerlink" title="3.10 Gigabit Ethernet（万兆以太网）"></a>3.10 Gigabit Ethernet（万兆以太网）</h3><p>（1）主要特点：</p><ul><li>保留Ethernet相同帧格式与最小最大帧长度</li><li>万兆介质专用接口（10GMII），将MAC层与物理层分开</li><li>10GbE<font color=green>只工作在全双工模式</font>，传输距离只取决于<font color=pink>光纤通信</font>系统的性能</li><li>应用领域：局域网–&gt;城域网与广域网</li><li>10GbE的物理层协议分为局域网物理层标准与广域网物理层标准</li></ul><p>（2）物理层标准<br>基于光纤：（<font color=green>多模光纤大多&lt;1km或800m，单模光纤传输距离远，大多数&gt;10km</font>）</p><ul><li>10GBASE-SR：多模光纤，300m</li><li>10GBASE-LRM：多模光纤，220m</li><li>10GBASE-LX4：单模光纤，10km</li><li>10GBASE-LR：单模光纤，25km</li><li>10GBASE-ER：单模光纤，40km</li><li>10GBASE-ZR：单模光纤，80km</li></ul><p>基于双绞线：</p><ul><li>10GBASE-CX4：6类UTP或STP双绞线，最大长度15m</li><li>10GBASE-T: 6类UTP或STP双绞线，最大长度100m</li></ul><p>实现WAN PHY标准的技术路线：<br>  1.使用SONER/SDH光纤通道技术<br>  2.直接采用光纤密集波分复用DWDM技术</p><h3 id="4-100-Gigabit-Ethernet"><a href="#4-100-Gigabit-Ethernet" class="headerlink" title="4.100 Gigabit Ethernet"></a>4.100 Gigabit Ethernet</h3><p>100Gigabit Ethernet 传输速率达到<font color=pink>100Gbps的IEEE 802.3ba标准</font><br>100GbE物理接口类型：</p><ul><li>10x10GbE短距离互联的LAN接口技术</li><li>4x25GE中短距离互联的LAN接口技术</li><li>10m的铜缆接口和1m的系统背板互联技术</li></ul><h2 id="五-无线局域网技术-协议标准、802-11帧结构"><a href="#五-无线局域网技术-协议标准、802-11帧结构" class="headerlink" title="五.无线局域网技术-协议标准、802.11帧结构"></a>五.无线局域网技术-协议标准、802.11帧结构</h2><h3 id="1-无线局域网（WLAN）"><a href="#1-无线局域网（WLAN）" class="headerlink" title="1.无线局域网（WLAN）"></a>1.无线局域网（WLAN）</h3><ul><li>传输介质：<font color=pink>微波、激光与红外线等无线电波，实现物理层与介质访问控制MAC子层的功能</font></li><li>功能：<ul><li>传统局域网的扩充</li><li>建筑物的互联</li><li>移动主机漫游访问</li><li>无线自组网络（Adhoc）</li></ul></li></ul><h3 id="2-扩频无线局域网"><a href="#2-扩频无线局域网" class="headerlink" title="2.扩频无线局域网"></a>2.扩频无线局域网</h3><p>（1）扩频通信：将信号扩展到更宽的频谱上传输</p><p><img src="https://img-blog.csdnimg.cn/43bcf72bce984153becc3c8e7a9f81fb.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><p>（2）跳频扩频通信：IEEE802.11规定跳频通信使用2.4GHz专用ISM频段，频率范围2.400~2.4835GHz。传输速率1Mbps或2Mbps。</p><p><img src="https://img-blog.csdnimg.cn/c9e0904efd964080b63e9e895ba2a8fc.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_18,color_FFFFFF,t_70,g_se,x_16"></p><p>（3）直接序列扩频通信（DSSS）：2.4GHz专用ISM频段，传输速率1Mbps或2Mbps。</p><ul><li>待发送数据-&gt;与伪随机数异或-&gt;调制后发送(抗干扰强)</li><li>所有接收主机使用相同频段</li><li>发端与收端用相同伪随机码<br><img src="https://img-blog.csdnimg.cn/0f459c2b4fce428c9d1423ec95ce2c2a.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_18,color_FFFFFF,t_70,g_se,x_16"></li></ul><h3 id="3-无线局域网协议标准"><a href="#3-无线局域网协议标准" class="headerlink" title="3.无线局域网协议标准"></a>3.无线局域网协议标准</h3><p><img src="https://img-blog.csdnimg.cn/3410a4696cdb48708721199f7d751a57.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_19,color_FFFFFF,t_70,g_se,x_16"></p><h3 id="4-无线局域网拓扑结构"><a href="#4-无线局域网拓扑结构" class="headerlink" title="4.无线局域网拓扑结构"></a>4.无线局域网拓扑结构</h3><p><img src="https://img-blog.csdnimg.cn/ce85574ab42540668540acaa36a46615.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><p><strong>无线自组网</strong>主要特点：<font color=pink>自组织与自修复，五中心，多跳路由，动态拓扑</font></p><h3 id="5-无线局域网工作原理"><a href="#5-无线局域网工作原理" class="headerlink" title="5.无线局域网工作原理"></a>5.无线局域网工作原理</h3><p>（1）MAC层的访问控制模式</p><p><img src="https://img-blog.csdnimg.cn/48a228f8924b482b8b300518e6763f3a.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_19,color_FFFFFF,t_70,g_se,x_16"></p><p>（2）帧间间隔规定</p><p>IEEE802.11协议规定所有无线网卡在检测到信道空闲到真正发送一帧或者发送一帧之后到发送下一帧都想要间隔一段时间：1.短帧间间隔（SIFS），2.分布协调帧间间隔（DIFS），3.点协调帧间间隔（PIFS），4.扩展帧间间隔（EIFS）</p><p>（3）CSMA/CA工作原理</p><p><img src="https://img-blog.csdnimg.cn/9cabb258ee5549088d7ce25cf7865095.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"></p><h3 id="6-IEEE802-11帧结构"><a href="#6-IEEE802-11帧结构" class="headerlink" title="6.IEEE802.11帧结构"></a>6.IEEE802.11帧结构</h3><p>（1）管理帧：信标帧（无线局域网的“心跳”）、探测帧、关联帧、认证帧。<br>（2）控制帧：包括RTS,CTS,ACK。用于预约信道、对单播数据帧的确认。<br>（3）数据帧：IEEE802.11数据帧三部分组成：帧头、数据字段、帧尾。帧头30B，数据字段0~2312B，帧尾2B（校验字段）。<br>    <img src="https://img-blog.csdnimg.cn/c8dc09a48f5a435fb5c1154bb2b4a513.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_18,color_FFFFFF,t_70,g_se,x_16"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
             
             <tag> 计算机网络 </tag>
             
@@ -33,7 +332,7 @@
       <link href="/2021/09/19/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%B8%80%EF%BC%89/"/>
       <url>/2021/09/19/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E4%B8%80%EF%BC%89/</url>
       
-        <content type="html"><![CDATA[<h1 id="计算机四级考试-–计算机网络"><a href="#计算机四级考试-–计算机网络" class="headerlink" title="计算机四级考试 –计算机网络"></a>计算机四级考试 –计算机网络</h1><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em><br><strong>基本要求：</strong></p><ul><li>理解计算机网络的基本概念</li><li>掌握局域网的基本工作原理</li><li>掌握TCP/IP及其相关协议</li><li>掌握较为新型的网络技术应用</li><li>理解网络管理与网络安全原理</li></ul><h2 id="第一章-网络技术基础"><a href="#第一章-网络技术基础" class="headerlink" title="第一章 网络技术基础"></a>第一章 网络技术基础</h2><p><strong>知识点：</strong></p><ul><li>计算机网络的形成与发展</li><li>计算机网络的基本概念</li><li>数据包交换与虚拟电路交换</li><li>网络体系结构与网络协议<h3 id="一-计算机网络的形成与发展"><a href="#一-计算机网络的形成与发展" class="headerlink" title="一.计算机网络的形成与发展"></a>一.计算机网络的形成与发展</h3></li></ul><ol><li><p><strong>计算机网络的发展阶段</strong></p><ul><li>第一阶段 <ul><li>数据通信技术成熟</li><li>分组交换概念提出</li></ul></li><li>第二阶段<ul><li>ARPANET的成功运行</li><li>TCP/IP协议的广泛应用</li></ul></li><li>第三阶段<ul><li>OSI参考模型的研究</li><li>TCP/IP协议推动力Internet的发展</li></ul></li><li>第四阶段<ul><li>Internet应用、无线网络与网络安全技术研究的发展</li></ul></li></ul></li><li><p><strong>ARPANET（阿帕网络）（广域网）</strong></p><ul><li><em>美国国防高级研究计划局（DARPA）</em> 要求新的网络在遭遇核战争或自然灾害时，如果部分网络设备或通信线路遭到破坏，网络系统仍能利用剩余的网络设备与通信线路继续工作—-称为<font color=orange>可生存系统</font>。<br><img src="https://img-blog.csdnimg.cn/25b831cb77444ba79279218f1372570c.jpg?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_17,color_FFFFFF,t_70,g_se,x_16#pic_center"></li><li>ARPANET采取<font color=red>分组交换</font>的思想，分为两个部分：<font color=red>通信子网和资源子网</font>，通信子网的转发节点用小型机实现，称为接口报文处理器（IMP）。</li></ul><p> APARNET发展<br>   <img src="https://img-blog.csdnimg.cn/da0788b88df3481db2390025a60f3aba.jpg?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_17,color_FFFFFF,t_70,g_se,x_16#pic_center"><br> 主要贡献</p><ul><li>开展对计算机网络定义与分类方法的研究</li><li><font color=orange>提出资源子网与通信子网的二级结构概念</font></li><li>研究分组交换协议与实现技术</li><li>研究层次型网络体系结构的模型与协议体系</li><li>开展TCP/IP协议与网络互连技术的研究<br><font color=orange></font></li></ul></li><li><p><strong>宽带城域网与三网融合技术的发展</strong></p><ul><li>宽带城域网结构：核心交换层、汇聚层、接入层</li><li>三网融合：计算机网络、电信网、电视网</li></ul></li><li><p><strong>物联网技术的形成与发展</strong><br> 物联网是在Internet技术基础上，利用<font color=orange>射频标签、无线传感、光学传感等感知技术</font>，自动获取物理世界的各种信息，通过三网融合形成的新一代网络系统（IPv6），构建覆盖<font color=orange>人与人、人与物、物与物</font>的智能信息系统。<br> 物联网实现了物理世界与信息世界的<font color=orange>无缝连接</font>。<br> 物联网与Internet关系：物联网应用系统接入到当前的Internet。</p></li><li><p><strong>网络操作系统的发展</strong><br> <strong>Windows操作系统：</strong></p><ul><li>Microsoft公司推出，带有<font color=orange>网络功能</font>，早期推出的操作系统：<font color=orange>Windows3.1</font>，它在DOS环境中增加了GUI图形用户界面。后来又推出Windows for Workgroup<font color=orange>对等式</font>操作系统。</li><li>Windows NT    + Windows NT 3.1 ：采用NT内核的32位的操作系统，提供全面网络服务。    + Windows NT 3.5 ：性能、安全、网络管理有所提高，降低对微型机配置要求。    + Windows NT 4.0 ：<font color=orange>采用客户机/服务器（C/S）</font>的工作模式。</li><li>Windows 2000 ：提供文件打印、web等服务，功能强大、易配置、安全性好。</li><li>Windows XP ：安全性、可靠性、管理功能、即插即用、界面简单。</li><li>Windows 2003 </li><li>2009年Windows7：支持触控技术的桌面操作系统。</li><li>2012年Windows8：采用Modem模式的用户界面，屏幕触控。</li><li>2015年Windows10</li></ul><p> <strong>Unix操作系统</strong></p><ul><li>1969年，Unix第一个版本V1，<font color=orange>汇编语言</font>编写，目的是<font color=orange>为开发新软件的程序员提供工具(闭源)</font>，各个公司的Unix操作系统包括：<font color=orange><em>IBM公司的AIX系统、Sun公司的Solaris系统、HP公司的HP-UX系统</em></font>。</li></ul><p> <strong>Linux操作系统</strong></p><ul><li>常见发行版：<font color=orange><em>RedHat、Ubuntu、蓝点、红旗Linux</em></font>…</li><li><font color=orange>完全免费，适合作为Internet服务平台，价格低、开源、安装配置简单</font>。</li></ul></li></ol><h3 id="二-计算机网络的基本概念"><a href="#二-计算机网络的基本概念" class="headerlink" title="二.计算机网络的基本概念"></a>二.计算机网络的基本概念</h3><h4 id="1-计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合"><a href="#1-计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合" class="headerlink" title="1. 计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合"></a>1. 计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合</h4><ul><li>特征1：<font color=skyblue>实现计算机资源的共享</font></li><li>特征2：互联的计算机是多台分布在不同地理位置的<font color=skyblue>独立的“自治计算机”</font>，之间<font color=skyblue>没有明确的主从关系</font>，每台计算机可联网或脱网工作</li><li>特征3：联网之间的计算机必须<font color=skyblue>遵循共同的协议</font></li></ul><h4 id="2-不同网络术语的区别与联系"><a href="#2-不同网络术语的区别与联系" class="headerlink" title="2. 不同网络术语的区别与联系"></a>2. 不同网络术语的区别与联系</h4><ul><li>computer network：计算机网络，有广域网、城域网、局域网或个人区域网等</li><li>internet：表示网络互联，将多个计算机网络互联成大型网络系统</li><li>Internet：因特网、互联网，是由很多种网络互联起来的网际网</li><li>Intranet：内部的专用网络系统</li></ul><h4 id="3-计算机网络分类："><a href="#3-计算机网络分类：" class="headerlink" title="3. 计算机网络分类："></a>3. 计算机网络分类：</h4><p>   <img src="https://img-blog.csdnimg.cn/1a775ee881ec44a4b2911f4952dfb0cb.png"></p><p>   （1）广域网技术</p><ul><li>广域网（WAN）又称远程网，<font color=orange>地理范围几十千米到几千千米</font></li><li>覆盖一个国家、地区或横跨几个州，国际性</li><li>将分布在不同地区的计算机系统、城域网、局域网互联，实现资源共享</li><li>公共数据网络，<font color=orange>主要特征是宽带核心交换技术</font>，传输介质：<font color=orange>光纤</font></li></ul><p>（2）城域网技术<br>   <font color=orange>光纤传输介质</font>，45<del>150Mbps高传输速率，支持数据、语音与视频综合业务的数据传输，可覆盖<font color=orange>50</del>100km</font></p><ul><li>光纤传输，传统电信、有线电视与IP业务融合成了宽带城域网的核心业务</li><li>核心设备：高端路由器与多层交换机</li><li>关键：扩大宽带接人的规模与服务质量<br><img src="https://img-blog.csdnimg.cn/829cad8ac192411eaf1b79750bb21745.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16">    + 管理平台：用户认证与接入管理、业务管理、网络安全、计费能力、IP地址分配、QoS保证等    + 业务平台：为用户提供Internet接入业务、数据专线业务、话音业务、视频与多媒体业务、内容提供业务等    + 网络平台结构：核心交换层、边缘汇聚层、用户接入层</li></ul><p>（3） 局域网技术<br>   <font color=orange>有限范围内的计算机、终端于外部设备互联成网</font><br>   <font color=orange>主要有两种：共享局域网与交换局域网 </font><br>   特征：</p><ul><li><font color=orange>覆盖范围有限</font>，高传输速率、低误码率，一般属于一个单位所有，易建立、维护与扩展</li><li>决定性能的三个因素：<font color=orange>拓扑、传输介质、介质访问控制方法</font></li></ul><p>（4）个人区域网技术</p><ul><li>无线个人区域网络（WPAN），无线通信技术，<font color=orange>覆盖距离：10m以内</font></li><li>无线传感器网使用的无线通信技术主要包括IEEE802.11标准的<font color=orange>WLAN</font>、IEEE802.15.4标准的无线个人区域网（<font color=orange>6LoWPAN</font>）、<font color=orange>蓝牙技术（Bluetooth）（10m内通信，低功耗）</font>、<font color=orange>ZigBee技术（面向自动控制、数据采集与控制节点多等等）</font></li></ul><h4 id="4-计算机网络拓扑结构"><a href="#4-计算机网络拓扑结构" class="headerlink" title="4. 计算机网络拓扑结构"></a>4. 计算机网络拓扑结构</h4><ul><li>星形拓扑：节点通过<em>点-点通信线路与中心节点</em>连接，<em>中心节点控制全网通信</em>，任何两点间通信需要中心节点，结构简单，易于实现与管理，但<em>中心节点是全网性能与可靠性的瓶颈</em>，中心节点故障会导致全网瘫痪</li><li>环形拓扑：闭合回路，任何节点都存在隐患</li><li>总线型拓扑：广播式发送与接收数据，结构简单，但存在冲突即介质访问冲突问题</li><li>树形拓扑</li><li><font color=orange>网状拓扑：任意，无规律，系统可靠性高，结构复杂，必须采用路由选择算法、流量控制与拥塞控制方法</font></li></ul><h4 id="5-计算机网络传输特性参数"><a href="#5-计算机网络传输特性参数" class="headerlink" title="5. 计算机网络传输特性参数"></a>5. 计算机网络传输特性参数</h4><ul><li>数据传输速率：每秒钟传输构成数据的二进制比特数（bps）</li><li>误码率：二进制码元在数据传输系统中被传错的概率，P=Ne/N，是正常工作状态下的传输可靠性参数，<font color=orange>在数据传输速率确定后，误码率越低，传输系统设备越复杂，造价越高</font></li></ul><h3 id="三-数据报交换与虚电路交换"><a href="#三-数据报交换与虚电路交换" class="headerlink" title="三.数据报交换与虚电路交换"></a>三.数据报交换与虚电路交换</h3><h4 id="1-数据报方式-主要方式"><a href="#1-数据报方式-主要方式" class="headerlink" title="1.数据报方式(主要方式)"></a>1.数据报方式(主要方式)</h4><p>  数据报：一种报文分组存储转发方式，<font color=orange>分组传输前不需要在源主机与目的主机预先建立“线路连接”，每个分组可独立选择路径传输</font><br>  <img src="https://img-blog.csdnimg.cn/bf717b64813046528e5fee7a9b059120.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"><br>  特征：可通过不同路径，会出现乱序、重复等现象，每个分组必须携带<font color=orange>目的地址和源地址</font>,延迟较大，不适合长报文、会话通信</p><h4 id="2-虚电路方式"><a href="#2-虚电路方式" class="headerlink" title="2.虚电路方式"></a>2.虚电路方式</h4><p>  在发送分组前，发送方与接收方建立一条逻辑连接的虚电路<br>  <img src="https://img-blog.csdnimg.cn/5f96bcfb0f7c4f788d8aa4981406fcc8.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"><br>  特征：<font color=orange>源与目的主机间预习建立虚电路</font>,虚电路顺序传输，无乱序等现象，分组经过路由器只需<font color=orange>差错检验，不需路由选择</font>,路由器可与多个主机之间通信<font color=orange>建立多条虚电路</font></p><h3 id="四-网络体系结构与网络协议"><a href="#四-网络体系结构与网络协议" class="headerlink" title="四.网络体系结构与网络协议"></a>四.网络体系结构与网络协议</h3><h4 id="网络体系结构"><a href="#网络体系结构" class="headerlink" title="网络体系结构"></a>网络体系结构</h4><p>  网络协议概念：语法（<em>用户数据与控制信息的结构和格式</em>），语义（<em>控制信息意义</em>），时序（<em>事件发生顺序</em>）<br>  网络体系结构：层次结构优点（各层相互独立，灵活性好）</p><h5 id="一-OSI参考模型"><a href="#一-OSI参考模型" class="headerlink" title="一.OSI参考模型"></a>一.OSI参考模型</h5><p>  开放系统互联（open system Internetwork，OSI），由国际标准化组织（ISO）确定，<font color=orange>网络互联的七层框架</font>，详细规定每层功能，实现开放系统环境中的互联性，互操作性与应用的可移植性<br>  <img src="https://img-blog.csdnimg.cn/826e116f98414ec68119a240d9334b4b.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_9,color_FFFFFF,t_70,g_se,x_16"><br>  网络主机具有相同层次；不同主机同层次功能相同；同一主机相邻层通过接口通信；上层可使用下层提供的服务，并向上层提供服务；不同主机同等层次通过协议进行同层通信</p><ul><li>物理层：最底层，<font color=orange>实现比特流的透明传输</font>数据传输单位为比特</li><li>数据链路层：建立数据链路，<font color=orange>采用差错控制与流量控制方法</font>，传输单位是帧</li><li>网络层：<font color=orange>通过路由选择算法</font>为分组选择合适传输路径，<font color=orange>实现流量控制、拥塞控制与网络互联</font>，传输单元是分组（packet）</li><li>传输层：提供可靠<font color=orange>端到端（end to end）连接与数据传输服务</font>，传输单元是报文（message）</li><li>会话层：会话主机连接与通信</li><li>表示层：通信系统之间的数据格式变换、数据加密解密、压缩恢复等</li><li>应用层：应用程序之间的通信控制<br><img src="https://img-blog.csdnimg.cn/6bb579c4d4d44589a47f56271266126b.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_18,color_FFFFFF,t_70,g_se,x_16"></li></ul><h5 id="二-TCP-IP参考模型与协议"><a href="#二-TCP-IP参考模型与协议" class="headerlink" title="二.TCP/IP参考模型与协议"></a>二.TCP/IP参考模型与协议</h5><p>  TCP/IP协议规定了计算机通信所使用的协议数据单元、格式、报头与相应动作<br>  特点：<em>开发协议标准</em>，<em>独立于计算机硬件与操作系统，独立于网络硬件，适用Internet</em>，<strong>统一网络地址分配</strong>，<em>标准化应用层协议</em><br>  <strong>TCP/IP与OSI</strong><br>  <img src="https://img-blog.csdnimg.cn/3064f672298845a49fededed6d149e25.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_12,color_FFFFFF,t_70,g_se,x_16"></p><ul><li>TCP/IP:<ul><li>主机-网络层：使用网络协议通过网络发送和接受IP分组，提供接口</li><li>互联网络层：处理来自传输层的数据发送请求；处理接受分组；处理网络的<font color=orange>路由选择、流量控制、拥塞控制</font></li><li>传输层：<font color=orange>负责会话进程之间建立和维护端到端连接</font>，传输层协议：传输控制协议（TCP）和用户数据报协议（UDP）</li><li>应用层：远程登录协议（Telnet),文件传输协议（FTP），简单邮件传输协议（SMTP），超文本传输协议（HTTP），域名服务（DNS），简单网络管理协议（SNMP），动态主机配置协议（DHCP）</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<p><font size=30 color=skyblue>计算机四级考试 –计算机网络</font></p><p><em>注：此文章仅针对计算机四级考试中计算机网络的主要考点，适合对计算机网络有一定了解并准备考试的兄弟们阅读，也可作为知识点的完善或扩充，如有不足，恳请指正</em><br><em>注：本文部分图片来自未来教育计算机网络，谨此感谢</em><br><strong>基本要求：</strong></p><ul><li>理解计算机网络的基本概念</li><li>掌握局域网的基本工作原理</li><li>掌握TCP/IP及其相关协议</li><li>掌握较为新型的网络技术应用</li><li>理解网络管理与网络安全原理</li></ul><h1 id="第一章-网络技术基础"><a href="#第一章-网络技术基础" class="headerlink" title="第一章 网络技术基础"></a>第一章 网络技术基础</h1><p><strong>知识点：</strong></p><ul><li>计算机网络的形成与发展</li><li>计算机网络的基本概念</li><li>数据包交换与虚拟电路交换</li><li>网络体系结构与网络协议<h2 id="一-计算机网络的形成与发展"><a href="#一-计算机网络的形成与发展" class="headerlink" title="一.计算机网络的形成与发展"></a>一.计算机网络的形成与发展</h2></li></ul><ol><li><p><strong>计算机网络的发展阶段</strong></p><ul><li>第一阶段 <ul><li>数据通信技术成熟</li><li>分组交换概念提出</li></ul></li><li>第二阶段<ul><li>ARPANET的成功运行</li><li>TCP/IP协议的广泛应用</li></ul></li><li>第三阶段<ul><li>OSI参考模型的研究</li><li>TCP/IP协议推动力Internet的发展</li></ul></li><li>第四阶段<ul><li>Internet应用、无线网络与网络安全技术研究的发展</li></ul></li></ul></li><li><p><strong>ARPANET（阿帕网络）（广域网）</strong></p><ul><li><em>美国国防高级研究计划局（DARPA）</em> 要求新的网络在遭遇核战争或自然灾害时，如果部分网络设备或通信线路遭到破坏，网络系统仍能利用剩余的网络设备与通信线路继续工作—-称为<font color=orange>可生存系统</font>。<br><img src="https://img-blog.csdnimg.cn/25b831cb77444ba79279218f1372570c.jpg?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_17,color_FFFFFF,t_70,g_se,x_16#pic_center"></li><li>ARPANET采取<font color=red>分组交换</font>的思想，分为两个部分：<font color=red>通信子网和资源子网</font>，通信子网的转发节点用小型机实现，称为接口报文处理器（IMP）。</li></ul><p> APARNET发展<br>   <img src="https://img-blog.csdnimg.cn/da0788b88df3481db2390025a60f3aba.jpg?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_17,color_FFFFFF,t_70,g_se,x_16#pic_center"><br> 主要贡献</p><ul><li>开展对计算机网络定义与分类方法的研究</li><li><font color=orange>提出资源子网与通信子网的二级结构概念</font></li><li>研究分组交换协议与实现技术</li><li>研究层次型网络体系结构的模型与协议体系</li><li>开展TCP/IP协议与网络互连技术的研究<br><font color=orange></font></li></ul></li><li><p><strong>宽带城域网与三网融合技术的发展</strong></p><ul><li>宽带城域网结构：核心交换层、汇聚层、接入层</li><li>三网融合：计算机网络、电信网、电视网</li></ul></li><li><p><strong>物联网技术的形成与发展</strong><br> 物联网是在Internet技术基础上，利用<font color=orange>射频标签、无线传感、光学传感等感知技术</font>，自动获取物理世界的各种信息，通过三网融合形成的新一代网络系统（IPv6），构建覆盖<font color=orange>人与人、人与物、物与物</font>的智能信息系统。<br> 物联网实现了物理世界与信息世界的<font color=orange>无缝连接</font>。<br> 物联网与Internet关系：物联网应用系统接入到当前的Internet。</p></li><li><p><strong>网络操作系统的发展</strong><br> <strong>Windows操作系统：</strong></p><ul><li>Microsoft公司推出，带有<font color=orange>网络功能</font>，早期推出的操作系统：<font color=orange>Windows3.1</font>，它在DOS环境中增加了GUI图形用户界面。后来又推出Windows for Workgroup<font color=orange>对等式</font>操作系统。</li><li>Windows NT    + Windows NT 3.1 ：采用NT内核的32位的操作系统，提供全面网络服务。    + Windows NT 3.5 ：性能、安全、网络管理有所提高，降低对微型机配置要求。    + Windows NT 4.0 ：<font color=orange>采用客户机/服务器（C/S）</font>的工作模式。</li><li>Windows 2000 ：提供文件打印、web等服务，功能强大、易配置、安全性好。</li><li>Windows XP ：安全性、可靠性、管理功能、即插即用、界面简单。</li><li>Windows 2003 </li><li>2009年Windows7：支持触控技术的桌面操作系统。</li><li>2012年Windows8：采用Modem模式的用户界面，屏幕触控。</li><li>2015年Windows10</li></ul><p> <strong>Unix操作系统</strong></p><ul><li>1969年，Unix第一个版本V1，<font color=orange>汇编语言</font>编写，目的是<font color=orange>为开发新软件的程序员提供工具(闭源)</font>，各个公司的Unix操作系统包括：<font color=orange><em>IBM公司的AIX系统、Sun公司的Solaris系统、HP公司的HP-UX系统</em></font>。</li></ul><p> <strong>Linux操作系统</strong></p><ul><li>常见发行版：<font color=orange><em>RedHat、Ubuntu、蓝点、红旗Linux</em></font>…</li><li><font color=orange>完全免费，适合作为Internet服务平台，价格低、开源、安装配置简单</font>。</li></ul></li></ol><h2 id="二-计算机网络的基本概念"><a href="#二-计算机网络的基本概念" class="headerlink" title="二.计算机网络的基本概念"></a>二.计算机网络的基本概念</h2><h3 id="1-计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合"><a href="#1-计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合" class="headerlink" title="1. 计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合"></a>1. 计算机网络：以能够相互资源共享的方式互联起来的自治计算机系统的集合</h3><ul><li>特征1：<font color=skyblue>实现计算机资源的共享</font></li><li>特征2：互联的计算机是多台分布在不同地理位置的<font color=skyblue>独立的“自治计算机”</font>，之间<font color=skyblue>没有明确的主从关系</font>，每台计算机可联网或脱网工作</li><li>特征3：联网之间的计算机必须<font color=skyblue>遵循共同的协议</font></li></ul><h3 id="2-不同网络术语的区别与联系"><a href="#2-不同网络术语的区别与联系" class="headerlink" title="2. 不同网络术语的区别与联系"></a>2. 不同网络术语的区别与联系</h3><ul><li>computer network：计算机网络，有广域网、城域网、局域网或个人区域网等</li><li>internet：表示网络互联，将多个计算机网络互联成大型网络系统</li><li>Internet：因特网、互联网，是由很多种网络互联起来的网际网</li><li>Intranet：内部的专用网络系统</li></ul><h3 id="3-计算机网络分类："><a href="#3-计算机网络分类：" class="headerlink" title="3. 计算机网络分类："></a>3. 计算机网络分类：</h3><p>   <img src="https://img-blog.csdnimg.cn/1a775ee881ec44a4b2911f4952dfb0cb.png"></p><p>   （1）广域网技术</p><ul><li>广域网（WAN）又称远程网，<font color=orange>地理范围几十千米到几千千米</font></li><li>覆盖一个国家、地区或横跨几个州，国际性</li><li>将分布在不同地区的计算机系统、城域网、局域网互联，实现资源共享</li><li>公共数据网络，<font color=orange>主要特征是宽带核心交换技术</font>，传输介质：<font color=orange>光纤</font></li></ul><p>（2）城域网技术<br>   <font color=orange>光纤传输介质</font>，45<del>150Mbps高传输速率，支持数据、语音与视频综合业务的数据传输，可覆盖<font color=orange>50</del>100km</font></p><ul><li>光纤传输，传统电信、有线电视与IP业务融合成了宽带城域网的核心业务</li><li>核心设备：高端路由器与多层交换机</li><li>关键：扩大宽带接人的规模与服务质量<br><img src="https://img-blog.csdnimg.cn/829cad8ac192411eaf1b79750bb21745.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16">    + 管理平台：用户认证与接入管理、业务管理、网络安全、计费能力、IP地址分配、QoS保证等    + 业务平台：为用户提供Internet接入业务、数据专线业务、话音业务、视频与多媒体业务、内容提供业务等    + 网络平台结构：核心交换层、边缘汇聚层、用户接入层</li></ul><p>（3） 局域网技术<br>   <font color=orange>有限范围内的计算机、终端于外部设备互联成网</font><br>   <font color=orange>主要有两种：共享局域网与交换局域网 </font><br>   特征：</p><ul><li><font color=orange>覆盖范围有限</font>，高传输速率、低误码率，一般属于一个单位所有，易建立、维护与扩展</li><li>决定性能的三个因素：<font color=orange>拓扑、传输介质、介质访问控制方法</font></li></ul><p>（4）个人区域网技术</p><ul><li>无线个人区域网络（WPAN），无线通信技术，<font color=orange>覆盖距离：10m以内</font></li><li>无线传感器网使用的无线通信技术主要包括IEEE802.11标准的<font color=orange>WLAN</font>、IEEE802.15.4标准的无线个人区域网（<font color=orange>6LoWPAN</font>）、<font color=orange>蓝牙技术（Bluetooth）（10m内通信，低功耗）</font>、<font color=orange>ZigBee技术（面向自动控制、数据采集与控制节点多等等）</font></li></ul><h3 id="4-计算机网络拓扑结构"><a href="#4-计算机网络拓扑结构" class="headerlink" title="4. 计算机网络拓扑结构"></a>4. 计算机网络拓扑结构</h3><ul><li>星形拓扑：节点通过<em>点-点通信线路与中心节点</em>连接，<em>中心节点控制全网通信</em>，任何两点间通信需要中心节点，结构简单，易于实现与管理，但<em>中心节点是全网性能与可靠性的瓶颈</em>，中心节点故障会导致全网瘫痪</li><li>环形拓扑：闭合回路，任何节点都存在隐患</li><li>总线型拓扑：广播式发送与接收数据，结构简单，但存在冲突即介质访问冲突问题</li><li>树形拓扑</li><li><font color=orange>网状拓扑：任意，无规律，系统可靠性高，结构复杂，必须采用路由选择算法、流量控制与拥塞控制方法</font></li></ul><h3 id="5-计算机网络传输特性参数"><a href="#5-计算机网络传输特性参数" class="headerlink" title="5. 计算机网络传输特性参数"></a>5. 计算机网络传输特性参数</h3><ul><li>数据传输速率：每秒钟传输构成数据的二进制比特数（bps）</li><li>误码率：二进制码元在数据传输系统中被传错的概率，P=Ne/N，是正常工作状态下的传输可靠性参数，<font color=orange>在数据传输速率确定后，误码率越低，传输系统设备越复杂，造价越高</font></li></ul><h2 id="三-数据报交换与虚电路交换"><a href="#三-数据报交换与虚电路交换" class="headerlink" title="三.数据报交换与虚电路交换"></a>三.数据报交换与虚电路交换</h2><h3 id="1-数据报方式-主要方式"><a href="#1-数据报方式-主要方式" class="headerlink" title="1.数据报方式(主要方式)"></a>1.数据报方式(主要方式)</h3><p>  数据报：一种报文分组存储转发方式，<font color=orange>分组传输前不需要在源主机与目的主机预先建立“线路连接”，每个分组可独立选择路径传输</font><br>  <img src="https://img-blog.csdnimg.cn/bf717b64813046528e5fee7a9b059120.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"><br>  特征：可通过不同路径，会出现乱序、重复等现象，每个分组必须携带<font color=orange>目的地址和源地址</font>,延迟较大，不适合长报文、会话通信</p><h3 id="2-虚电路方式"><a href="#2-虚电路方式" class="headerlink" title="2.虚电路方式"></a>2.虚电路方式</h3><p>  在发送分组前，发送方与接收方建立一条逻辑连接的虚电路<br>  <img src="https://img-blog.csdnimg.cn/5f96bcfb0f7c4f788d8aa4981406fcc8.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_20,color_FFFFFF,t_70,g_se,x_16"><br>  特征：<font color=orange>源与目的主机间预习建立虚电路</font>,虚电路顺序传输，无乱序等现象，分组经过路由器只需<font color=orange>差错检验，不需路由选择</font>,路由器可与多个主机之间通信<font color=orange>建立多条虚电路</font></p><h2 id="四-网络体系结构与网络协议"><a href="#四-网络体系结构与网络协议" class="headerlink" title="四.网络体系结构与网络协议"></a>四.网络体系结构与网络协议</h2><h3 id="网络体系结构"><a href="#网络体系结构" class="headerlink" title="网络体系结构"></a>网络体系结构</h3><p>  网络协议概念：语法（<em>用户数据与控制信息的结构和格式</em>），语义（<em>控制信息意义</em>），时序（<em>事件发生顺序</em>）<br>  网络体系结构：层次结构优点（各层相互独立，灵活性好）</p><h4 id="一-OSI参考模型"><a href="#一-OSI参考模型" class="headerlink" title="一.OSI参考模型"></a>一.OSI参考模型</h4><p>  开放系统互联（open system Internetwork，OSI），由国际标准化组织（ISO）确定，<font color=orange>网络互联的七层框架</font>，详细规定每层功能，实现开放系统环境中的互联性，互操作性与应用的可移植性<br>  <img src="https://img-blog.csdnimg.cn/826e116f98414ec68119a240d9334b4b.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_9,color_FFFFFF,t_70,g_se,x_16"><br>  网络主机具有相同层次；不同主机同层次功能相同；同一主机相邻层通过接口通信；上层可使用下层提供的服务，并向上层提供服务；不同主机同等层次通过协议进行同层通信</p><ul><li>物理层：最底层，<font color=orange>实现比特流的透明传输</font>数据传输单位为比特</li><li>数据链路层：建立数据链路，<font color=orange>采用差错控制与流量控制方法</font>，传输单位是帧</li><li>网络层：<font color=orange>通过路由选择算法</font>为分组选择合适传输路径，<font color=orange>实现流量控制、拥塞控制与网络互联</font>，传输单元是分组（packet）</li><li>传输层：提供可靠<font color=orange>端到端（end to end）连接与数据传输服务</font>，传输单元是报文（message）</li><li>会话层：会话主机连接与通信</li><li>表示层：通信系统之间的数据格式变换、数据加密解密、压缩恢复等</li><li>应用层：应用程序之间的通信控制<br><img src="https://img-blog.csdnimg.cn/6bb579c4d4d44589a47f56271266126b.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_18,color_FFFFFF,t_70,g_se,x_16"></li></ul><h4 id="二-TCP-IP参考模型与协议"><a href="#二-TCP-IP参考模型与协议" class="headerlink" title="二.TCP/IP参考模型与协议"></a>二.TCP/IP参考模型与协议</h4><p>  TCP/IP协议规定了计算机通信所使用的协议数据单元、格式、报头与相应动作<br>  特点：<em>开发协议标准</em>，<em>独立于计算机硬件与操作系统，独立于网络硬件，适用Internet</em>，<strong>统一网络地址分配</strong>，<em>标准化应用层协议</em><br>  <strong>TCP/IP与OSI</strong><br>  <img src="https://img-blog.csdnimg.cn/3064f672298845a49fededed6d149e25.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_12,color_FFFFFF,t_70,g_se,x_16"></p><ul><li>TCP/IP:<ul><li>主机-网络层：使用网络协议通过网络发送和接受IP分组，提供接口</li><li>互联网络层：处理来自传输层的数据发送请求；处理接受分组；处理网络的<font color=orange>路由选择、流量控制、拥塞控制</font></li><li>传输层：<font color=orange>负责会话进程之间建立和维护端到端连接</font>，传输层协议：传输控制协议（TCP）和用户数据报协议（UDP）</li><li>应用层：远程登录协议（Telnet),文件传输协议（FTP），简单邮件传输协议（SMTP），超文本传输协议（HTTP），域名服务（DNS），简单网络管理协议（SNMP），动态主机配置协议（DHCP）</li></ul></li></ul>]]></content>
       
       
       <categories>
@@ -44,6 +343,8 @@
       
       
         <tags>
+            
+            <tag> 计算机 </tag>
             
             <tag> 计算机网络 </tag>
             
