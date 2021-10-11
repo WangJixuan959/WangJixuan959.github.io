@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>右键菜单添加idea等IDE打开文件夹/项目</title>
+      <link href="/2021/10/11/%E5%85%B6%E4%BB%96/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9%E6%88%96%E9%A1%B9%E7%9B%AE/"/>
+      <url>/2021/10/11/%E5%85%B6%E4%BB%96/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9%E6%88%96%E9%A1%B9%E7%9B%AE/</url>
+      
+        <content type="html"><![CDATA[<p><font size=7 color=black>鼠标右键菜单添加idea等IDE打开文件夹/项目</font></p><p><font size=5 color=red>1. Win + R 执行 regedit （打开注册表编辑器）</font></p><p><img src="https://img-blog.csdnimg.cn/776f8f883309431db6c1875256b1daae.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_11,color_FFFFFF,t_70,g_se,x_16"></p><font size=5 color=red>2. 找到目录：<p>计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell</font></p><p><img src="https://img-blog.csdnimg.cn/0c30ef95c0c2473ab9c1381591385511.png"></p><p><font size=5 color=red>3. 在shell目录下新建IEAD文件夹</font><br><img src="https://img-blog.csdnimg.cn/87e1b184865048b48e7d4b1e1bacc320.png"></p><p><font size=5 color=red>4. IEAD文件夹默认值数据改为“使用IDEA打开”</font><br><img src="https://img-blog.csdnimg.cn/d9d959b815cd46afb0b6f2b4e19630ab.png"><br><img src="https://img-blog.csdnimg.cn/23a28182e655463293df772f038aed79.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_12,color_FFFFFF,t_70,g_se,x_16"></p><p><font size=5 color=red>5. IDEA文件夹新建字符串值Icon，值为IDEA的执行路径</font><br><img src="https://img-blog.csdnimg.cn/2e3422ed79b84c9f882c24db1126eaa7.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_12,color_FFFFFF,t_70,g_se,x_16"></p><p><font size=5 color=red>6. 在IDEA目录下新建command文件夹</font><br><img src="https://img-blog.csdnimg.cn/8ef81b0c0e4e4cfeb13c52853fc68b36.png"><br><strong>将默认项的值修改为”I:\IDEA\IntelliJ IDEA 2021.2.2\bin” “%1”</strong><br><strong>即 “IDEA路径”+空格+”%1”</strong><br><em>%1表示将打开的文件夹</em><br><img src="https://img-blog.csdnimg.cn/a62436f7d7024ec6a3dab51b6b7a5a75.png?type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUGFyYWRpc2U5NTk=,size_12,color_FFFFFF,t_70,g_se,x_16"></p><p><font size=5 color=red>7. 保存并重启，右键文件或文件夹，使用IDEA打开</font></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IntelliJ IDEA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>xhr.send()报错</title>
       <link href="/2021/10/03/problems/xhr.send()%E6%8A%A5%E9%94%99/"/>
       <url>/2021/10/03/problems/xhr.send()%E6%8A%A5%E9%94%99/</url>
