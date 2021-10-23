@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>selenium-xpath用法改变</title>
+      <link href="/2021/10/23/%E5%85%B6%E4%BB%96/selenium-xpath%E7%94%A8%E6%B3%95%E6%94%B9%E5%8F%98/"/>
+      <url>/2021/10/23/%E5%85%B6%E4%BB%96/selenium-xpath%E7%94%A8%E6%B3%95%E6%94%B9%E5%8F%98/</url>
+      
+        <content type="html"><![CDATA[<p><font size=7 color=black>selenium-xpath用法改变</font></p><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">result = web.find_element_by_xpath(<span class="string">&#x27;//*[@id=&quot;changeCityBox&quot;]/p[1]/a&#x27;</span>)</span><br><span class="line"><span class="comment"># error：find_element_by_* commands are deprecated. Please use find_element() instead</span></span><br></pre></td></tr></table></figure><p>*<em>find_element_by_<em>已被弃用</em></em></p><p>原写法：</p><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">result = web.find_element_by_xpath(<span class="string">&#x27;//*[@id=&quot;changeCityBox&quot;]/p[1]/a&#x27;</span>)</span><br></pre></td></tr></table></figure><p>现在写法：</p><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">result = web.find_element(By.XPATH,<span class="string">&#x27;//*[@id=&quot;changeCityBox&quot;]/p[1]/a&#x27;</span>)</span><br></pre></td></tr></table></figure><p><em>注：需提前导入from selenium.webdriver.common.by import By</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 爬虫 </tag>
+            
+            <tag> 数据解析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>右键菜单添加idea等IDE打开文件夹/项目</title>
       <link href="/2021/10/11/%E5%85%B6%E4%BB%96/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9%E6%88%96%E9%A1%B9%E7%9B%AE/"/>
       <url>/2021/10/11/%E5%85%B6%E4%BB%96/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9%E6%88%96%E9%A1%B9%E7%9B%AE/</url>
